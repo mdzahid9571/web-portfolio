@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    font-family: 'Noto Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-high{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+}
